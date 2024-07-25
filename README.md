@@ -27,4 +27,4 @@ This installation assumes you are using [Mayhem](https://github.com/portapack-ma
 - Click the splash-screen and hold **right button**
 
 ## Support ##
-Contact [this email](fantasy.studios5915@gmail.com) for support
+Contact [my discord(https://discord.com/users/625461246040342529) for support
